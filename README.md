@@ -2,6 +2,11 @@
 
 I'm a junior Computer Science student at Xi'an Jiaotong University, passionate about software development \. 
 
+### Seeking PhD Opportunities for Fall 2026  
+**Contact Me!**  
+
+I am looking for PhD opportunities for Fall 2026. If you have any relevant openings or would like to collaborate, feel free to reach out!  
+
 ### 🔧 Research Intereset
 - NLP 
 - Multimodal Learning
